@@ -1,0 +1,2 @@
+module SetCoordinatesHelper
+end
